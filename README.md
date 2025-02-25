@@ -6,3 +6,4 @@ Capstone project from IBM Data Science Professional Certificate
 - Lab1c: Perform EDA and determine training labels
 - Lab2a: Understand the Spacex DataSet, load the dataset into the corresponding table in a Db2 database, execute SQL queries to answer assignment questions 
 - Lab2b: Perform exploratory Data Analysis and Feature Engineering using Pandas and Matplotlib
+- Lab3a: Perform more interactive visual analytics using Folium.
